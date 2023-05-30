@@ -1,0 +1,20 @@
+server:
+  port: 5000
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/material_manage?useSSL=false&characterEncoding=utf8&useUnicode=true
+    username: root
+    password: 123456
+  devtools:
+    restart:
+      enabled: true
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+

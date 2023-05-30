@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc537ebe-494f-4930-90d5-4c382934ce69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/IDE/apache-maven-3.6.3" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="userSettingsFile" value="D:\IDE\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27V6zNEAZhPj5B2EZeJFc4zp1HB" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="ts.external.directory.path" value="D:\IDEA\IntelliJ IDEA 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\学习\毕设\项目\前端\materials-management-system\src\assets\img" />
+      <recent name="E:\学习\毕设\项目\前端\materials-management-system\src\assets\css" />
+      <recent name="E:\学习\毕设\项目\前端\materials-management-system\public\static\js" />
+      <recent name="E:\学习\毕设\项目\前端\materials-management-system\src\assets\js" />
+      <recent name="E:\学习\毕设\项目\前端\materials-management-system\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\学习\毕设\项目\前端\materials-management-system\src\components\tables" />
+      <recent name="E:\学习\毕设\项目\前端\materials-management-system\src\functioinInterface\StockInfo" />
+      <recent name="E:\学习\毕设\项目\前端\materials-management-system\src\functioinInterface\HomeDisplayInfo" />
+      <recent name="E:\学习\毕设\项目\前端\materials-management-system\src\functioinInterface\HumanResourcesRelated" />
+      <recent name="E:\学习\毕设\项目\前端\materials-management-system\src\functioinInterface\ProcureManage" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc537ebe-494f-4930-90d5-4c382934ce69" name="Default Changelist" comment="" />
+      <created>1649393171516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649393171516</updated>
+      <workItem from="1649393174942" duration="2388000" />
+      <workItem from="1649404599815" duration="130000" />
+      <workItem from="1649765469977" duration="3877000" />
+      <workItem from="1649812721022" duration="7964000" />
+      <workItem from="1649920263370" duration="2624000" />
+      <workItem from="1649923526430" duration="3921000" />
+      <workItem from="1649992627208" duration="2493000" />
+      <workItem from="1650004887462" duration="989000" />
+      <workItem from="1650011878478" duration="1239000" />
+      <workItem from="1650244340633" duration="10550000" />
+      <workItem from="1650265889252" duration="5462000" />
+      <workItem from="1650331721093" duration="5323000" />
+      <workItem from="1650421564322" duration="9000000" />
+      <workItem from="1650503691101" duration="6151000" />
+      <workItem from="1650528691939" duration="5596000" />
+      <workItem from="1650546536659" duration="3039000" />
+      <workItem from="1650595990803" duration="2320000" />
+      <workItem from="1650609371608" duration="1989000" />
+      <workItem from="1650936533947" duration="21167000" />
+      <workItem from="1650980677681" duration="3729000" />
+      <workItem from="1651036190203" duration="3374000" />
+      <workItem from="1651045025177" duration="12495000" />
+      <workItem from="1651120492863" duration="1511000" />
+      <workItem from="1651133022760" duration="8609000" />
+      <workItem from="1651159254000" duration="2277000" />
+      <workItem from="1651208788746" duration="4726000" />
+      <workItem from="1651292989081" duration="23346000" />
+      <workItem from="1651375021593" duration="16114000" />
+      <workItem from="1651412219290" duration="5814000" />
+      <workItem from="1651453280171" duration="1232000" />
+      <workItem from="1651455929803" duration="2071000" />
+      <workItem from="1651460507759" duration="12058000" />
+      <workItem from="1651504929616" duration="703000" />
+      <workItem from="1651541609512" duration="17410000" />
+      <workItem from="1651586166985" duration="641000" />
+      <workItem from="1651717079544" duration="13033000" />
+      <workItem from="1651762139214" duration="1285000" />
+      <workItem from="1651798001899" duration="1567000" />
+      <workItem from="1651819932344" duration="11129000" />
+      <workItem from="1651842865303" duration="1241000" />
+      <workItem from="1651846005802" duration="1533000" />
+      <workItem from="1651889441506" duration="2420000" />
+      <workItem from="1651903805727" duration="2768000" />
+      <workItem from="1651920749274" duration="2240000" />
+      <workItem from="1651982942856" duration="14544000" />
+      <workItem from="1652058921470" duration="1126000" />
+      <workItem from="1652060071130" duration="16562000" />
+      <workItem from="1652108878042" duration="569000" />
+      <workItem from="1652109494795" duration="1371000" />
+      <workItem from="1652145741508" duration="8576000" />
+      <workItem from="1652166818175" duration="6887000" />
+      <workItem from="1652248299113" duration="9839000" />
+      <workItem from="1652269519052" duration="632000" />
+      <workItem from="1652275684393" duration="7506000" />
+      <workItem from="1652319298278" duration="4084000" />
+      <workItem from="1652326888054" duration="10789000" />
+      <workItem from="1652368522736" duration="312000" />
+      <workItem from="1652417091208" duration="2854000" />
+      <workItem from="1653012811887" duration="1298000" />
+      <workItem from="1653389696437" duration="775000" />
+      <workItem from="1654507433556" duration="5907000" />
+      <workItem from="1654566511072" duration="4280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

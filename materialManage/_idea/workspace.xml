@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c353b355-42c8-4665-8ef9-ae464d6d397e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/yfk/MaterialManageApplicationTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/IDE/apache-maven-3.6.3" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="userSettingsFile" value="D:\IDE\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27dC2IAAm6VbOYX70nkn9bCAbaM" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../前端/materials-management-system" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2516383" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yfk.common.lang" />
+      <recent name="com.yfk.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MaterialManageApplication">
+    <configuration name="MaterialManageApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="materialManage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yfk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yfk" />
+      <option name="MAIN_CLASS_NAME" value="com.yfk.MaterialManageApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaterialManageApplicationTests.getUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="materialManage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yfk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yfk" />
+      <option name="MAIN_CLASS_NAME" value="com.yfk.MaterialManageApplicationTests" />
+      <option name="METHOD_NAME" value="getUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="materialManage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yfk.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yfk.service" />
+      <option name="MAIN_CLASS_NAME" value="com.yfk.service.userServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaterialManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="materialManage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yfk.MaterialManageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.userServiceTests" />
+        <item itemvalue="JUnit.MaterialManageApplicationTests" />
+        <item itemvalue="JUnit.MaterialManageApplicationTests.getUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c353b355-42c8-4665-8ef9-ae464d6d397e" name="Default Changelist" comment="" />
+      <created>1649640371663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649640371663</updated>
+      <workItem from="1649640375052" duration="7824000" />
+      <workItem from="1649681490100" duration="3125000" />
+      <workItem from="1649726680107" duration="2870000" />
+      <workItem from="1649761130149" duration="2731000" />
+      <workItem from="1649818950620" duration="1954000" />
+      <workItem from="1649904137004" duration="9754000" />
+      <workItem from="1649986771726" duration="4909000" />
+      <workItem from="1650004873339" duration="1011000" />
+      <workItem from="1650012281118" duration="907000" />
+      <workItem from="1650087667199" duration="1250000" />
+      <workItem from="1650172241411" duration="1242000" />
+      <workItem from="1650252491423" duration="4404000" />
+      <workItem from="1650510163478" duration="19000" />
+      <workItem from="1650528059242" duration="6045000" />
+      <workItem from="1650546476579" duration="2080000" />
+      <workItem from="1650595680698" duration="895000" />
+      <workItem from="1650609327119" duration="1496000" />
+      <workItem from="1650729402539" duration="628000" />
+      <workItem from="1650769988331" duration="625000" />
+      <workItem from="1650888754383" duration="5119000" />
+      <workItem from="1650936489233" duration="18258000" />
+      <workItem from="1650980424254" duration="3964000" />
+      <workItem from="1651029763571" duration="2095000" />
+      <workItem from="1651032454588" duration="410000" />
+      <workItem from="1651032909853" duration="3046000" />
+      <workItem from="1651046503073" duration="8118000" />
+      <workItem from="1651067702965" duration="4219000" />
+      <workItem from="1651120373961" duration="1347000" />
+      <workItem from="1651132951680" duration="9032000" />
+      <workItem from="1651208642100" duration="4476000" />
+      <workItem from="1651292785309" duration="11800000" />
+      <workItem from="1651374995648" duration="613000" />
+      <workItem from="1651384936871" duration="1794000" />
+      <workItem from="1651397099468" duration="2367000" />
+      <workItem from="1651403884291" duration="3557000" />
+      <workItem from="1651414331062" duration="5940000" />
+      <workItem from="1651453248624" duration="1978000" />
+      <workItem from="1651455305781" duration="4708000" />
+      <workItem from="1651460411791" duration="8324000" />
+      <workItem from="1651496321500" duration="693000" />
+      <workItem from="1651504862560" duration="650000" />
+      <workItem from="1651541306519" duration="11089000" />
+      <workItem from="1651586016952" duration="785000" />
+      <workItem from="1651716523102" duration="10515000" />
+      <workItem from="1651760156119" duration="1547000" />
+      <workItem from="1651797977601" duration="5501000" />
+      <workItem from="1651819918929" duration="7424000" />
+      <workItem from="1651845813417" duration="3539000" />
+      <workItem from="1651889073500" duration="5570000" />
+      <workItem from="1651903729890" duration="661000" />
+      <workItem from="1651920706588" duration="2793000" />
+      <workItem from="1651981656715" duration="6441000" />
+      <workItem from="1652058897352" duration="4944000" />
+      <workItem from="1652108548353" duration="892000" />
+      <workItem from="1652110658051" duration="435000" />
+      <workItem from="1652145704450" duration="3003000" />
+      <workItem from="1652166753005" duration="5773000" />
+      <workItem from="1652248057136" duration="7240000" />
+      <workItem from="1652275714753" duration="3516000" />
+      <workItem from="1652319243140" duration="6861000" />
+      <workItem from="1652326744910" duration="6815000" />
+      <workItem from="1652367961658" duration="1485000" />
+      <workItem from="1652416745443" duration="1528000" />
+      <workItem from="1653012718188" duration="1287000" />
+      <workItem from="1653389740314" duration="612000" />
+      <workItem from="1654507404037" duration="6547000" />
+      <workItem from="1654566481008" duration="1885000" />
+      <workItem from="1654761559493" duration="2350000" />
+      <workItem from="1654824577836" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yfk/controller/StockController.java</url>
+          <line>327</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/materialManage$MaterialManageApplication.ic" NAME="MaterialManageApplication Coverage Results" MODIFIED="1651414195275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
